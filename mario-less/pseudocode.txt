@@ -1,0 +1,7 @@
+get an input number
+check if the recived number is in the range of 1 to 8
+if the nuber is in the range of 1 to 8
+ make mario
+else if the number is not on the range of 1 to 8
+ ask again
+ 
